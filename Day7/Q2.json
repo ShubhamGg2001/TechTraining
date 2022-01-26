@@ -1,0 +1,17 @@
+{
+    "name":"Shubham",
+    "salary":50000,
+    "married":false,
+    "grade":null,
+    "address":{"primaryAddress":"275/27, Jawahar Nagar, Sonipat",
+        "secondaryAddress":"275/27, Jawahar Nagar, Sonipat",
+        "country":"India",
+        "state":"Haryana"
+    },
+    "mobileNumbers":["9306781909","89504279341"],
+    "Address":{
+        "streetNumber":165347,
+        "state":"Haryana"
+    }
+
+}
